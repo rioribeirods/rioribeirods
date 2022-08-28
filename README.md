@@ -1,12 +1,11 @@
-## Olá! Me chamo Rio, sou um desenvolvedor em formação com muito interesse em UX/UI Design e Dados! 😉
+## Olá! Me chamo Rio, sou um desenvolvedor em formação com muito interesse em UX/UI Design! 😉
 
 
 - 🔭 Atualmente estou trabalhando com Front-end e OJS.
-- 🌱 Estudando PHP, Nodejs e Python.
+- 🌱 Estudando React, Nodejs e Python.
 - 👯 Procurando colaborar com projetos que se interessem por acessibilidade.
 - 📫 Como me contatar: rioribeirods@gmail.com
 - 😄 Pronomes: Any pronouns :)
-- ⚡ Fun fact: Sou alérgico a 🪳
 
 
 
