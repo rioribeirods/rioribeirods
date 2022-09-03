@@ -5,7 +5,6 @@
 - 🌱 Estudando React, Nodejs e Python.
 - 👯 Procurando colaborar com projetos que se interessem por acessibilidade.
 - 📫 Como me contatar: rioribeirods@gmail.com
-- 😄 Pronomes: Any pronouns :)
 
 
 
