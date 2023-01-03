@@ -1,8 +1,8 @@
-## Olá! Me chamo Rio, sou um desenvolvedor em formação com muito interesse em UX/UI Design! 😉
+## Olá! Me chamo Rio, sou um desenvolvedor em formação com muito interesse em cybersec! 😉
 
 
-- 🌱 Estudando React, Nodejs e Python.
-- 👯 Procurando colaborar com projetos que se interessem por acessibilidade.
+- 🌱 Estudando React, Nodejs, Linux e Python.
+- 👯 Procurando colaborar com projetos que se interessem por cybersec.
 - 📫 Como me contatar: rioribeirods@gmail.com
 
 
