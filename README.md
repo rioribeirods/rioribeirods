@@ -21,7 +21,6 @@
   <img align="center" alt="rio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="rio-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/400477908851884043/1001518623006937179/download20220702124536.png?width=488&height=488">
 </div>
   
   ##
