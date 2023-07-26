@@ -1,10 +1,7 @@
-## Olá! Me chamo Rio, sou um desenvolvedor em formação com muito interesse em cybersec! 😉
+## Olá! Me chamo Rio, estudo sobre hacking e pentest! 😉
 
-
-- 🌱 Estudando React, Nodejs, Linux e Python.
 - 👯 Procurando colaborar com projetos que se interessem por cybersec.
 - 📫 Como me contatar: rioribeirods@gmail.com
-
 
 
 
