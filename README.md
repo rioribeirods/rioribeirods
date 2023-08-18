@@ -7,8 +7,8 @@
 <a href="https://www.hackerrank.com/rioribeirods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rioribeirods" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rioribeirods&show_icons=true&locale=en" alt="rioribeirods" /></p>
+<p display="block"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rioribeirods&show_icons=true&locale=en&layout=compact" alt="rioribeirods" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rioribeirods&show_icons=true&locale=en&layout=compact" alt="rioribeirods" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rioribeirods&show_icons=true&locale=en" alt="rioribeirods" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rioribeirods&" alt="rioribeirods" /></p>
