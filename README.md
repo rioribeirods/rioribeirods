@@ -1,9 +1,3 @@
-## Olá! Me chamo Rio, estudo sobre hacking e pentest! 😉
-
-- 👯 Procurando colaborar com projetos que se interessem por cybersec.
-- 📫 Como me contatar: rioribeirods@gmail.com
-
-
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/rioribeirods">
