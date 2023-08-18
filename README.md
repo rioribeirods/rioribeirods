@@ -8,9 +8,12 @@
 </p>
 
 
+
+
+
+
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rioribeirods&show_icons=true&locale=en&layout=compact" alt="rioribeirods" /></p>
+
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=rioribeirods&show_icons=true&locale=en" alt="rioribeirods" /></p>
+
 <p align="center" display="block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rioribeirods&" alt="rioribeirods" /></p>
-
-<p align="center" display="block" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rioribeirods&show_icons=true&locale=en" alt="rioribeirods" /></p>
-
-<p align="center" display="block"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rioribeirods&show_icons=true&locale=en&layout=compact" alt="rioribeirods" /></p>
-
