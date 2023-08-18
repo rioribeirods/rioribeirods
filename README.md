@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rioribeirods&show_icons=true&locale=en" alt="rioribeirods" /></p>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rioribeirods&show_icons=true&locale=en&layout=compact" alt="rioribeirods" /></p>
+<p height=193px><img height=193px src="https://github-readme-stats.vercel.app/api/top-langs?username=rioribeirods&show_icons=true&locale=en&layout=compact" alt="rioribeirods" /></p>
 
 <p align="center" display="block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rioribeirods&" alt="rioribeirods" /></p>
